@@ -4,6 +4,7 @@
   "description": "A Laravel Datadog helper package.",
   "keywords": [
     "chaseconey",
+    "datadog",
     "laravel-datadog-helper"
   ],
   "homepage": "https://github.com/chaseconey/laravel-datadog-helper",
